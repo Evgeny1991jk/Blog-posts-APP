@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    width: 430px;
+    padding: 5px 5px;
+    margin: 5px 15px;
+    text-align: center;
+    justify-content: center;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid teal;
+}
+
+.text_item {
+    padding: 8px;
+}
